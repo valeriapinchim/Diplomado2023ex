@@ -16,4 +16,9 @@ List schools:
 2. COAR
 3. Hilton
 4. Primer Colegio Nacional
+
+List of districts
+1. Tarapoto
+2. PL
+3. Miraflores
    
