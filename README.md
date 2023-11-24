@@ -16,4 +16,9 @@ List schools:
 2. COAR
 3. Hilton
 4. Primer Colegio Nacional
+
+List of districts:
+1. San Ramón
+2. Chavin
+3. San Marcos
    
