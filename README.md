@@ -2,9 +2,9 @@
 This is a course in phyton.
 
 Names of the students:
-1. Matías Salazar
-2. Luis Quispe
-3. Nuria Toledo
+1. Matías Salazar (245654354)
+2. Luis Quispe (65437654)
+3. Nuria Toledo (76547654)
 
 List of artists:
 1. Selena Gomez
