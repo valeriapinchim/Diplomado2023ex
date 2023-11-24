@@ -21,4 +21,6 @@ List of districts
 1. Tarapoto
 2. PL
 3. Miraflores
-   
+4. San Ramón
+5. Chavin
+6. San Marcos
