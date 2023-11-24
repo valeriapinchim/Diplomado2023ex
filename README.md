@@ -10,3 +10,10 @@ List of artists:
 1. Selena Gomez
 2. Grupo 5
 3. Lobos
+
+List schools:
+1. VD
+2. COAR
+3. Hilton
+4. Primer Colegio Nacional
+   
