@@ -17,8 +17,10 @@ List schools:
 3. Hilton
 4. Primer Colegio Nacional
 
-List of districts:
-1. San Ramón
-2. Chavin
-3. San Marcos
-   
+List of districts
+1. Tarapoto
+2. PL
+3. Miraflores
+4. San Ramón
+5. Chavin
+6. San Marcos
